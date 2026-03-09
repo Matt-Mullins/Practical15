@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Anagrams {
+public class Main {
 
     // Function to create the signature (alphabetically sorted letters)
     public static String signature(String word) {
